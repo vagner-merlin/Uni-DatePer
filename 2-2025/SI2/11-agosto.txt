@@ -1,0 +1,22 @@
+apuntes general 
+16:45 puerta cerra una ves cerrada nadie vuelve a entrar
+sistema de informacion = software de gestion = software de gestion empresarial = sistema de gestion empresarial 
+Caracterisitca para software de gestion empresarial
+--> procezar volumen enorme de datos!
+( por eso es necesaria base de datos, de todo tipo- relaciona docuemntal distribuda etc), para probar los datos?(herramientas data seice)
+/sistema que no se prueba sistema que no sirve/
+--> diseniado con muchos usuarios simultaneamente!
+los usaurios tienen distinto roles, roles como administrador. etc! (el pribilegio de crear todos los roles por habido por haber)
+debe estar pensando para ser utilizado para tener una gran cantidad de usuarios! ( lo importante aca es el timpo de respuesta ) 
+--> implementar politica de negocio empresarial 
+es la forma de trabajar que tiene las empresas es decir conocer como funciona para luego poner todo en un sistema de informacio 
+tenemos que ver que se puede mejorar o implementar. ( no podemos definir como se mueve el negocio empresarial ) es conocer eh implementar y mejorar 
+(NO VAMOS AVANZAR SIN SABER QUE LO QUE ESTAMOS HACIENDO) 
+sistema de informacion 2 = taller de sistema! (donde desarrollamos sistemas) 
+
+DESAFIOS///
+-->el grado de complejidad nosotros los marcamos es decir cuando lo conocemos!  es facil cuando lo sabemos o dominiamos 
+-->modelos adecados con inteligencia artificial 
+
+2/2025 
+proyecto principal / trabajado en equipo! de 5 personas! = Grupo 3/

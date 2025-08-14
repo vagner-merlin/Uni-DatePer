@@ -1,0 +1,22 @@
+todas las imagenes que estan en esta carpeta son evidencia por si perdemos! para presentacion del ultimo semestre en caso de no tenerlo 
+fisico, cada foto es una presentacion
+-----------------------------------------------------
+PRESENTACIONESS
+-----------------------------------------------------
+-> traer 2 caratulas ( 1 para nosotro otra para el docente ) 
+-> Caratula ( en el siguiente orden ) 
+-> Nombre de la universidad 
+-> Nombre de la facultad 
+-> Nombre de la carrera
+-> Nombre del documento ( "perfil del proyecto" <- ejemplo )
+-> Titulo del proyecto ( esto seria el nombre del tema )
+-> Lista de autores ( es decir estudiantes ) 
+-> Orden 
+	- Apellido paterno 
+	- Apellido Materno 
+	- Numero de registro 
+	(todo esto ordenado Ordenado alfabéticamente por apellido paterno en orden ascendente. )
+-> Fecha de presentacion 
+-> Lugar 
+	- Santa cruz 
+

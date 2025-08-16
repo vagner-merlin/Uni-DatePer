@@ -36,4 +36,7 @@ PUNTOS
 	el trabajo consiste en 3 
 	fundamentacion teorica, aplicacioes simililares, caso de estudio 
 
-		
+	tener una presentacion con todo hasta usando el software aunque sea opensource 
+	( sirve grabar video explicando, ( siempre tener planes aparte ) ) administrar el tiempo
+	cada grupo creara su recurso, tiempo de la presentacion ( 40 minutos ) 
+	Miercoles 20 subir en .pdf a la plataforma 

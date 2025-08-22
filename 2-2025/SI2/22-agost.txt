@@ -1,0 +1,48 @@
+note 
+	Infor general 
+		Se supone que conocemos el proyecto, con la informacion adquirida 
+		hemos visto aplicaciones sobre el tema que nos coresponde 
+		tenemos caso de estudio 
+	Proxima clase 
+		25-agosto 
+			propuesta de desarrollo 
+				analista, ing software, productouner -> ( el tipo que entiende el problema asegura lo que el cliente quiere habla el del cliente y desarrollo )
+				4 actividades fundamentales en el desarrollo de software 
+					-> entender el problema 50% 
+					-> Crear la solucion diseniar y buscar soluciono efectiva al problema 
+					-> codigo 
+					-> pruebas ( libre de falla ) 
+					resumido = analisis , disenio , implementacion , prueba = esto se repite en cad auno de los ciclos 
+		1r Parte 
+			Plantear el problema -> 
+				traer enunciado del problema, ( que sea completo ) luego marcar que parte consideramos que podemos hacer 
+				avm ( ? ) 
+				hablar de transacciones, resultados, 
+
+				2 puntos 
+					1 decripcion del problema general que describa todo el problema completo 
+					2 plantear ( de todo lo vimos podemos solucionar esto o aplicare esto ) 
+						esto se resume de hacer una sintaxis de poner de acurdo que podemos implementar 
+					-> no tomar en cuenta el avm ( en programacion se llama adiconar borrar y modificar )
+					3r punto 
+						deben agregar ia 
+							oportunidad para aprender!
+							olvidemonos de los chatbot 
+								inovemos
+								no es obligado a usar nuestro propio modelos, o usar marching lerning 
+								cuando usamos ia siempre necesitamos volumen de datos para entrenarlo 
+
+								poblacion de datos 
+									herramientas para pobrar datos datos consistente 
+								dataset 
+									gran cantidad publico para personalizar
+					
+							aprobechar bien la organizacion del tiempo .
+		Los resultados a corde al trabajo 
+			ia = va determinar estados 
+			plantearlo de 2 manera 
+				1r reporte formularios etc 
+				2da dashword ( investigar ) 
+					powerbi 
+
+		propuesta para lunes 

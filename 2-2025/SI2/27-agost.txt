@@ -1,0 +1,102 @@
+perfil del proyecto 
+	1r 
+		caratula 
+		(perfil de proyecto titulo acutores etc ) 
+	2do 
+		tabla contenido indice 
+		(solo detalle) 3 niveles minimo 2 niveles -> es decir los titulo 
+	3r 
+		introduccion 
+			captar para ver si vale la pena leer el libro!
+			leer los detalles 
+
+	4t
+		antecedentes 
+		(todo hecho hasta hora respeto al proyecto todo lo que hemos documentados ) 
+			3 putnos de vista 
+			analizar desde 3 perpectivas 
+			1r revisar lo que esta escrito en los libros con las citas biograficas
+			2do 3 aplicaciones hechas de software por alguna parte del mundo 1open source
+			3r caso de estudio de nuestro medio para posible cliente del software
+	5t 
+		descripcion del problema 
+			describir! ( tomar como referencia caso de estudio ) 
+			politica de negocio! 
+				uml -> diagrama de activades organizado por calle 
+				vpn. modelo de negocio 
+
+	6t 
+		objetivos
+			metedologia de la investigacion guiarnos <- como plantear objetivo s
+			1r plantear 
+			(cuando colocamos el objetivos tenemos que demostrar lo que escribimos) 
+
+			--> decir implementar no es lo mismo que desarrollar 
+	7t 
+		alcance 
+			todo lo que hara nuestro software 
+			-----------------------------------
+			funionalidades principales 
+				describimos dichas funcionalidades
+	8t 
+		elemento de un sistema de informacion basado en computadoras 
+		 * 
+	9t 
+		tecnologia 
+			3 capas
+			estrategia de desarrollo
+				basado en el marco de trabajo scrum ( no es una metologia ) 
+				uml 2.5
+			fundamentacion teorica
+				lo que vayamos a tomar ( lo que vamos aplicar en el dev del sis.) 
+			herramientas 
+				gestion de proyecto 
+					guthub <-
+
+					case = htext 
+					herramientas para hacer software 
+					para generar datos sinteticos
+	10 
+		costos 
+			costos para el cliente 
+				version con enfoque saas = suscripcion 
+			opremise 
+				interese es lo que se vende 
+
+			colocar valores reales 
+			(preguntar esta parte a los companieros) 
+
+	11 
+		beneficios
+			caracteristica donde la empresa va mejorar, desde un punto de vista x 
+			Lista de beneficios 
+				demostrando 
+				3.
+					1. Tiempo
+					2. el exfuerzo ( lo que ahoramos en mano de obra ) 
+					3. menor tiempo y menor exfuerzo 
+	12 
+		bibliografia
+			lsita de fuente de informacion 
+			libros 
+			sitios web que hablen del tema 
+			nombre de la persona que entreviste y cargo!
+	13
+		anexos 
+			obligatorio 
+				formato de la entrevista estrucuturado 
+				encuenta 
+				toda la informacion que reconpilamos a corde de la entrvista 
+
+				el cv de cada uno
+				hacer entrevista 
+			opcional 
+
+
+Formato 
+	norma apa 
+	metodologia de la investigacion para entender de que hablaos!
+
+
+Fecha entrega
+Miercoles 3 dde septiembre

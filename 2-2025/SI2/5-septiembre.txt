@@ -1,0 +1,91 @@
+preguntas sobre la compresion del tema 
+	alacance 
+		a muchos usuarios 
+
+Despliegue 
+	3opciones 
+		aws 
+		google icloud 
+		achurd mmicrosof 
+	aplicaion movil 
+		ese dia que presentemos debe a ver alguna manera de descargarla 
+
+Documentacion! 	
+	debe estar organizada en capitulos de los cuales abran varios capitulos
+	describiendo fundamentacion teorica 
+ejemplo 
+	capitulo fundamentacion teroirco 
+		proceso de desarrollo 
+		ejemplo de capitulos (mminimo) 
+			cp. antecedentes (hablar sobre el tema del condominio con sus caracteristicas, hablar de alguna aplicaciones similares que haiga visto 
+			cp. descripcion del problema! -> ( 
+			cp. en el que hable de las distinata aplicaciones an hecho utilizando la ia ( marching learning, modulo tipo estadistico. con su repectiva docuementacion ) -> por ejemplo uno que hacer predeccion es randon forex. vision artificial. descripion los servicios publico! reconocimineto facial -> hablar sobre este tema! 
+			hablaremos de herramientas de implementacion y porque 
+			 python, porque? que libreria? que componente? etc
+			 explicar en flutter lo mismo etc
+
+			cp proceso unificao a desarrollo de software 
+				es practicamente para una receta 
+				pregunta numero 0 
+				de que se parece scrum a proceso unificado a desarrollo de sotfware 
+
+				examen final es escrito 
+					parcial 
+					trabajos 
+					taresas 
+					pregunta 0 
+						si la rempondemos bien el examen sera revisado 
+
+						diferencia scrum con  proceso unificado <- una posible pregunta 
+							lo parecido es a manera de como se desarrollar el software ese por parte 
+							se llama siclo en proceso unifcado es equivalente ( estudiar ) 
+							sprint debe durar 4 semana no mas 
+							proceso unificado 1 ciclo puedo dudar x el desarrollar define eso 
+							es una metodologia porque ser repite 4 fases 	
+								inicio 
+								elaboracion 
+								construccion 
+								transiccion 
+
+								flujos de trafacos 
+									captura de requisito 
+									analisis 
+									diseno 
+									implementacion 
+
+									por cada uno define un monot de actividade 
+										captura de requisito 5 
+											estrucuturar caso de iso 
+											detallar caso de uso 
+			cp uml 2.5 o superiror 
+			cp proceso de desarrollo de software! 
+			tal y cual aplicammos en el proyecto ( como demostramos que lo desarrollamos si no tenemos el registro de los procesos ) 
+				podemos colocar todo en un capitulo poner uno dentro de otro etc. 
+				solito solo define uml representa grafico 
+
+			srcum? que es se utliza para desarrollar software! es un marco de trabajo par alo desarrolladores para usar de que forma 
+			cp mecanimo acerca de como aprender a utilizar la aplicacion!
+
+			videos explicando!
+			asistente!
+			
+			bibliografia 
+			anexo 
+
+			formato apa
+				formato digital apra la plataforma 
+				formato impreso si se ve conveniente!
+					formato pdf navegable 
+					cuando entregar la documentacion 
+					8am maximo debemos publicar la documentacion! no mas 8am del primero de octubre 
+
+					ocurre en la presentacion del software todos los aspecto que definimos! 
+					 entel funciona bien!
+					 no hay nada localhost
+					 traer todo lo que ocupamos laptop conectada a internet 
+
+					 agreamos una o dos hojas qr para para que pueda apceder al repoitorio para entrar al sistema 
+					 qr para recursos 
+
+			
+

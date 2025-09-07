@@ -1,0 +1,31 @@
+1r parcial 
+	desarrollo de aplicacion de software y mobile 
+	Grupo 7 
+	Identidad general del proyecto = condominio!
+
+	un lugar con habitantes e propieratarios donde pagan su mes que le podemos decir sus despensas en un condominio hay areas sociales personal para la seguridad para la adminitracion del lugar 
+	en un condominio tenemos eventos en las areas sociales tenemos seguridad 
+	el condominio dispone de espacio nde parqeuo 
+	precio de las despensas precio de reserva de los lugares multas por pago 
+	mantemineto del area 
+	etc 
+	Funcionalidad ->
+		reducir exfuerzo 
+		tiempo = reduce costo 
+
+	Fehca 1 de octumbre para entrega 
+		web 
+			backend 
+				django 
+			frontend 
+				react 
+			base de datos 
+				postgres 
+		mobile 
+			flutter 
+		nube
+			aws 
+			google icloud 
+			microsof short ( o como se escriba ) 
+		repositorio 
+			git -> git hub 
